@@ -1,0 +1,13 @@
+E:\Educational\CSharp\Chapter16\ExceptionExamples\csharp-web-dev-lsn9exceptions\bin\Debug\netcoreapp3.1\csharp-web-dev-lsn9exceptions.exe
+E:\Educational\CSharp\Chapter16\ExceptionExamples\csharp-web-dev-lsn9exceptions\bin\Debug\netcoreapp3.1\csharp-web-dev-lsn9exceptions.deps.json
+E:\Educational\CSharp\Chapter16\ExceptionExamples\csharp-web-dev-lsn9exceptions\bin\Debug\netcoreapp3.1\csharp-web-dev-lsn9exceptions.runtimeconfig.json
+E:\Educational\CSharp\Chapter16\ExceptionExamples\csharp-web-dev-lsn9exceptions\bin\Debug\netcoreapp3.1\csharp-web-dev-lsn9exceptions.runtimeconfig.dev.json
+E:\Educational\CSharp\Chapter16\ExceptionExamples\csharp-web-dev-lsn9exceptions\bin\Debug\netcoreapp3.1\csharp-web-dev-lsn9exceptions.dll
+E:\Educational\CSharp\Chapter16\ExceptionExamples\csharp-web-dev-lsn9exceptions\bin\Debug\netcoreapp3.1\csharp-web-dev-lsn9exceptions.pdb
+E:\Educational\CSharp\Chapter16\ExceptionExamples\csharp-web-dev-lsn9exceptions\obj\Debug\netcoreapp3.1\csharp-web-dev-lsn9exceptions.csproj.AssemblyReference.cache
+E:\Educational\CSharp\Chapter16\ExceptionExamples\csharp-web-dev-lsn9exceptions\obj\Debug\netcoreapp3.1\csharp-web-dev-lsn9exceptions.AssemblyInfoInputs.cache
+E:\Educational\CSharp\Chapter16\ExceptionExamples\csharp-web-dev-lsn9exceptions\obj\Debug\netcoreapp3.1\csharp-web-dev-lsn9exceptions.AssemblyInfo.cs
+E:\Educational\CSharp\Chapter16\ExceptionExamples\csharp-web-dev-lsn9exceptions\obj\Debug\netcoreapp3.1\csharp-web-dev-lsn9exceptions.csproj.CoreCompileInputs.cache
+E:\Educational\CSharp\Chapter16\ExceptionExamples\csharp-web-dev-lsn9exceptions\obj\Debug\netcoreapp3.1\csharp-web-dev-lsn9exceptions.dll
+E:\Educational\CSharp\Chapter16\ExceptionExamples\csharp-web-dev-lsn9exceptions\obj\Debug\netcoreapp3.1\csharp-web-dev-lsn9exceptions.pdb
+E:\Educational\CSharp\Chapter16\ExceptionExamples\csharp-web-dev-lsn9exceptions\obj\Debug\netcoreapp3.1\csharp-web-dev-lsn9exceptions.genruntimeconfig.cache
